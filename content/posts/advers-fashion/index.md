@@ -9,7 +9,7 @@ url = "/myblog"
 
 Do any of you remember that photo of Paris Hilton in an “anti-paparazzi” scarf that went viral on the internet a few years back? It looks a little something like this:
 
-![Photo of Paris Hilton wearing a patterned scarf](/images/hilton-scarf.jpg)
+![Photo of Paris Hilton wearing a patterned scarf](images/hilton-scarf.jpg)
 Image Source: Snopes, who got it from @lohanisgod on Twitter/X
 
 At first, the scarf looks like any random scarf from the 2010s, with bright colors and bold patterns— but its true nature is revealed once the photographer takes her picture with flash. The patterns reveal a reflective material and obscure her face in darkness (basically ruining the picture for anyone wanting to sell it); as such, the scarf was famously named the “anti-paparazzi” scarf by the internet.
@@ -26,7 +26,7 @@ Designers, artistic activists, and countless others are actively experimenting w
 
 1. **Dazzle Camouflage**
 
-![Three activists wearing geometric face-paint, called "razzle dazzle](/images/razzle-dazzle.jpg)
+![Three activists wearing geometric face-paint, called "razzle dazzle](images/razzle-dazzle.jpg)
 Image Source: The Guardian, “Hiding in Plain Sight: activists don camouflage to beat Met surveillance
 
 Dazzle camouflage (AKA: the ol “razzle dazzle”) were first introduced in the early 1900s by Norman Wilkinson—volunteer reserve lieutenant, a poster designer, and seascape painter— and were [originally used by British Navy ships during WWI to distort the enemy’s sight of the ship](https://www.history.com/news/dazzle-camouflage-world-war-1). The patterns would effectively obfuscate the model of the ship and its distance, but by WWII, advancements in rangefinders gradually made dazzle impractical and obsolete. 
@@ -37,7 +37,7 @@ While CV dazzle may not always be the most effective in obfuscating facial featu
 
 2. **Jackets with license plates and junk data** [(Adversarial Fashion - the brand)](https://adversarialfashion.com/products/alpr-circuit-men-s-bomber-jacket)
 
-![Man wearing a black and white bomber jacket with license plate patterns](/images/adv-fashion-brand.jpg)
+![Man wearing a black and white bomber jacket with license plate patterns](images/adv-fashion-brand.jpg)
 Image Source: A jacket from Adversarial Fashion’s website
 
 Another example of fashion that subverts technological surveillance are the bomber jackets produced by the brand, Adversarial Fashion. At first glance, the jacket simply looks like a black and white patterned jacket— but when taking a closer look, you’ll see that the jacket is entirely covered in license plates. This jacket is no longer just an ordinary piece of clothing— once you understand how Automated License Plate Readers work.
