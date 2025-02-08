@@ -1,74 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A.G. Samaniego</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on A.G. Samaniego</description>
+    <title>Posts on A.G. Samaniego</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on A.G. Samaniego</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>👋 Nice to meet you!</title>
-      <link>http://localhost:1313/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/</guid>
-      <description>&lt;h2 id=&#34;i-am-alysa-gem-ag-samaniego&#34;&gt;I am Alysa Gem &lt;strong&gt;(A.G.)&lt;/strong&gt; Samaniego.&lt;/h2&gt;
-&lt;p&gt;I am a senior at University of Illinois at Urbana-Champaign studying &lt;strong&gt;Information Sciences&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Among my many facets, I am:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A creative analyst&lt;/li&gt;
-&lt;li&gt;A digital humanist&lt;/li&gt;
-&lt;li&gt;Passionate about culture as data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Linkedin &lt;a href=&#34;https://www.linkedin.com/in/ag-samaniego&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub &lt;a href=&#34;https://www.github.com/ag-samaniego&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Or reach out at alysama2021(at)gmail(dot)com&lt;/p&gt;</description>
-      <content>&lt;h2 id=&#34;i-am-alysa-gem-ag-samaniego&#34;&gt;I am Alysa Gem &lt;strong&gt;(A.G.)&lt;/strong&gt; Samaniego.&lt;/h2&gt;
-&lt;p&gt;I am a senior at University of Illinois at Urbana-Champaign studying &lt;strong&gt;Information Sciences&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Among my many facets, I am:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A creative analyst&lt;/li&gt;
-&lt;li&gt;A digital humanist&lt;/li&gt;
-&lt;li&gt;Passionate about culture as data&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;contact-information&#34;&gt;Contact Information&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Linkedin &lt;a href=&#34;https://www.linkedin.com/in/ag-samaniego&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;GitHub &lt;a href=&#34;https://www.github.com/ag-samaniego&#34;&gt;here&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Or reach out at alysama2021(at)gmail(dot)com&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>http://localhost:1313/aboutme/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/aboutme/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-my-tiny-corner-of-the-internet&#34;&gt;Welcome to my tiny corner of the internet!&lt;/h1&gt;
-&lt;p&gt;I am a senior at University of Illinois at Urbana-Champaign studying &lt;strong&gt;Information Sciences&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Among my many facets, I am:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A creative analyst&lt;/li&gt;
-&lt;li&gt;A digital humanist&lt;/li&gt;
-&lt;li&gt;Passionate about culture as data&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content>&lt;h1 id=&#34;welcome-to-my-tiny-corner-of-the-internet&#34;&gt;Welcome to my tiny corner of the internet!&lt;/h1&gt;
-&lt;p&gt;I am a senior at University of Illinois at Urbana-Champaign studying &lt;strong&gt;Information Sciences&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Among my many facets, I am:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A creative analyst&lt;/li&gt;
-&lt;li&gt;A digital humanist&lt;/li&gt;
-&lt;li&gt;Passionate about culture as data&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adversarial Fashion: Fashion that Fights Surveillance</title>
       <link>http://localhost:1313/myblog/</link>
@@ -112,78 +50,6 @@ Image Source: A jacket from Adversarial Fashion’s website&lt;/p&gt;
 &lt;h2 id=&#34;adversarial-fashions-importance---beyond-its-functionality&#34;&gt;Adversarial Fashion&amp;rsquo;s Importance&amp;ndash; Beyond its functionality&lt;/h2&gt;
 &lt;p&gt;Adversarial fashion is a unique form of defense, self-advocacy, and an artistic medium that continues to subvert technology in the fight against surveillance. Much of its appeal is in its ability to exploit surveillance technologies, but it’s uncertain how well these designs’ disruptive features will stand the test of time.&lt;/p&gt;
 &lt;p&gt;I warn that valuing this artform purely on its functionality may minimize the statements its designers intend to make: that the computer systems, algorithms, and models that police us are not infallible. Adversarial fashion is a political statement in its physical visibility (and virtual “invisibility”); and a creative playground that centers people, while summoning technology as an involuntary participant in our art. The existence of these pieces not only proves tech’s fallibility, but symbolizes it as well. Time can only tell how this genre of fashion evolves and resists with us.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>My Experience</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;p&gt;View resume pdf &lt;a href=&#34;https://drive.google.com/file/d/1nox7xuQv70vCVkICgjMkkAjXCQxgbz0J/view?usp=sharing&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
-&lt;h4 id=&#34;business-applications-ce-delivery-intern---rsm-jun-aug-2024&#34;&gt;Business Applications CE Delivery Intern - RSM (Jun-Aug 2024)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Conducted industry research across 3 middle-market clients to configure software solutions using Microsoft Dynamics 365 and
-JavaScript&lt;/li&gt;
-&lt;li&gt;Organized a team of 5 interns to research the Industrials industry and prescribe Cybersecurity solutions to RSM partners&lt;/li&gt;
-&lt;li&gt;Contributed to 5+ team calls per week to discuss and refine data configurations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;business-analyst-intern---dnext-lab-american-supply-association-may-dec-2023&#34;&gt;Business Analyst Intern - D.Next Lab, American Supply Association (May-Dec 2023)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Conducted industry research across 3 middle-market clients to configure software solutions using Microsoft Dynamics 365 and
-JavaScript&lt;/li&gt;
-&lt;li&gt;Organized a team of 5 interns to research the Industrials industry and prescribe Cybersecurity solutions to RSM partners&lt;/li&gt;
-&lt;li&gt;Contributed to 5+ team calls per week to discuss and refine data configurations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;leadership-experience&#34;&gt;Leadership Experience&lt;/h2&gt;
-&lt;h4 id=&#34;founding-treasurer---skeuomorphics-book-lab-april-2024-present&#34;&gt;Founding Treasurer - Skeuomorphics Book Lab (April 2024-Present)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;aslkdkjfas&lt;/li&gt;
-&lt;li&gt;Managing financial budgets and resource procurement&lt;/li&gt;
-&lt;li&gt;askldfjasl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;campus-ambassador---partiful-aug-2024-present&#34;&gt;Campus Ambassador - Partiful (Aug 2024-Present)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;-&lt;/p&gt;</description>
-      <content>&lt;p&gt;View resume pdf &lt;a href=&#34;https://drive.google.com/file/d/1nox7xuQv70vCVkICgjMkkAjXCQxgbz0J/view?usp=sharing&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
-&lt;h4 id=&#34;business-applications-ce-delivery-intern---rsm-jun-aug-2024&#34;&gt;Business Applications CE Delivery Intern - RSM (Jun-Aug 2024)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Conducted industry research across 3 middle-market clients to configure software solutions using Microsoft Dynamics 365 and
-JavaScript&lt;/li&gt;
-&lt;li&gt;Organized a team of 5 interns to research the Industrials industry and prescribe Cybersecurity solutions to RSM partners&lt;/li&gt;
-&lt;li&gt;Contributed to 5+ team calls per week to discuss and refine data configurations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;business-analyst-intern---dnext-lab-american-supply-association-may-dec-2023&#34;&gt;Business Analyst Intern - D.Next Lab, American Supply Association (May-Dec 2023)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Conducted industry research across 3 middle-market clients to configure software solutions using Microsoft Dynamics 365 and
-JavaScript&lt;/li&gt;
-&lt;li&gt;Organized a team of 5 interns to research the Industrials industry and prescribe Cybersecurity solutions to RSM partners&lt;/li&gt;
-&lt;li&gt;Contributed to 5+ team calls per week to discuss and refine data configurations&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;leadership-experience&#34;&gt;Leadership Experience&lt;/h2&gt;
-&lt;h4 id=&#34;founding-treasurer---skeuomorphics-book-lab-april-2024-present&#34;&gt;Founding Treasurer - Skeuomorphics Book Lab (April 2024-Present)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;aslkdkjfas&lt;/li&gt;
-&lt;li&gt;Managing financial budgets and resource procurement&lt;/li&gt;
-&lt;li&gt;askldfjasl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;campus-ambassador---partiful-aug-2024-present&#34;&gt;Campus Ambassador - Partiful (Aug 2024-Present)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;-&lt;/p&gt;
-&lt;h4 id=&#34;social-chair---acmuiuc-aug-2023-may-2024&#34;&gt;Social Chair - ACM@UIUC (Aug 2023-May 2024)&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;asi;lkdfja&lt;/li&gt;
-&lt;li&gt;asiodl;kfj&lt;/li&gt;
-&lt;li&gt;alksdjf&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
 </content>
     </item>
     
