@@ -74,7 +74,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "A.G. Samaniego"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
